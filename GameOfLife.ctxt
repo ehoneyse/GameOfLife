@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=numOfGenerations
+comment0.target=GameOfLife(int)
+comment0.text=\r\n\ GameOfLife\ Constructor\r\n\r\n\ @param\ numOfGenerations\ A\ parameter\r\n
+comment1.params=
+comment1.target=void\ execute()
+numComments=2
